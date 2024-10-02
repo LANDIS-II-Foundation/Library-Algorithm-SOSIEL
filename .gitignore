@@ -205,3 +205,9 @@ FakesAssemblies/
 # Visual Studio 6 workspace options file
 *.opt
 SOSIEL VCM
+.editorconfig
+.gitattributes
+CHANGELOG.md
+src/.editorconfig
+src/postbuild.bat
+src/SOSIEL.sln
